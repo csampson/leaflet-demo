@@ -1,0 +1,37 @@
+[
+  {
+    "callsign": "KDAQ",
+    "frequency": 89.9,
+    "geolocation": [32.677924, -93.9273697]
+  },
+  {
+    "callsign": "KTLN",
+    "frequency": 90.5,
+    "geolocation": [29.721877, -90.775925]
+  },
+  {
+    "callsign": "KLSA",
+    "frequency": 90.7,
+    "geolocation": [31.565730, -92.547365]
+  },
+  {
+    "callsign": "KRVS",
+    "frequency": 88.7,
+    "geolocation": [30.322424, -92.377910]
+  },
+  {
+    "callsign": "KEDM",
+    "frequency": 90.3,
+    "geolocation": [32.660694, -91.991242]
+  },
+  {
+    "callsign": "WWNO",
+    "frequency": 89.9,
+    "geolocation": [29.920316, -90.024571]
+  },
+  {
+    "callsign": "WRKF",
+    "frequency": 89.3,
+    "geolocation": [30.372970, -91.204551]
+  }
+]
