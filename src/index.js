@@ -16,9 +16,11 @@ Leaflet.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?acces
 }).addTo(map);
 
 stations.forEach(station => {
-  Leaflet.circleMarker(station.geolocation, {
+  const marker = Leaflet.circleMarker(station.geolocation, {
     fillColor: '#03a9f4',
-    fillOpacity: 1,
-    radius: 5
-  }).addTo(map);    
+    fillOpacity: 0.5,
+    radius: 10
+  }).addTo(map);
+
+  marker.bindTooltip(`${station.callsign} ${station.frequency}`);
 });
