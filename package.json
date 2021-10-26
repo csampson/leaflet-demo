@@ -10,6 +10,7 @@
     "build": "parcel build"
   },
   "devDependencies": {
+    "leaflet": "^1.7.1",
     "parcel": "^2.0.0"
   }
 }
