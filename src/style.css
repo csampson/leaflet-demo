@@ -11,3 +11,22 @@ body {
 main {
   height: 100%;
 }
+
+aside {
+  font-family: system-ui;
+  color: white;
+  position: fixed;
+  left: 1rem;
+  bottom: 1rem;
+  z-index: 1000;
+}
+
+h1 {
+  font-weight: 500;
+  margin-top: 0;
+}
+
+p {
+  font-size: smaller;
+  margin-bottom: 0;
+}

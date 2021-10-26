@@ -2,36 +2,47 @@
   {
     "callsign": "KDAQ",
     "frequency": 89.9,
-    "geolocation": [32.677924, -93.9273697]
+    "geolocation": [32.677924, -93.9273697],
+    "market_city": "Shreveport"
   },
   {
     "callsign": "KTLN",
     "frequency": 90.5,
-    "geolocation": [29.721877, -90.775925]
+    "geolocation": [29.721877, -90.775925],
+    "market_city": "Thibodaux"
   },
   {
     "callsign": "KLSA",
     "frequency": 90.7,
-    "geolocation": [31.565730, -92.547365]
+    "geolocation": [31.565730, -92.547365],
+    "market_city": "Alexandria"
   },
   {
     "callsign": "KRVS",
     "frequency": 88.7,
-    "geolocation": [30.322424, -92.377910]
+    "geolocation": [30.322424, -92.377910],
+    "market_city": "Lafayette",
+    "stream_url": "https://15123.live.streamtheworld.com:443/KRVSFM_SC"
   },
   {
     "callsign": "KEDM",
     "frequency": 90.3,
-    "geolocation": [32.660694, -91.991242]
+    "geolocation": [32.660694, -91.991242],
+    "market_city": "Monroe",
+    "stream_url": "http://stream.kedm.org/listen"
   },
   {
     "callsign": "WWNO",
     "frequency": 89.9,
-    "geolocation": [29.920316, -90.024571]
+    "geolocation": [29.920316, -90.024571],
+    "market_city": "New Orleans",
+    "stream_url": "https://tektite.streamguys1.com:5145/wwnolive"
   },
   {
     "callsign": "WRKF",
     "frequency": 89.3,
-    "geolocation": [30.372970, -91.204551]
+    "geolocation": [30.372970, -91.204551],
+    "market_city": "Baton Rouge",
+    "stream_url": "https://22113.live.streamtheworld.com:443/WRKFFM_SC"
   }
 ]
